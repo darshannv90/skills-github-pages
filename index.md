@@ -1,3 +1,3 @@
----
-title: Welcome to my blog!
----
+Tech events
+Workshops,Hackathon and Placement related activites
+
